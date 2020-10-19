@@ -1,0 +1,72 @@
+.all{
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 10%;
+    margin-right: 10%;
+    background-color: rgba(245, 245, 245, 0.897);
+    
+    }
+.line{
+    height: 3px;
+    background-color: teal;
+}
+.head{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: stretch;
+    margin-top: 25px;
+    max-width: 100%;
+    margin-left: 25px;
+    
+}
+.image{
+    margin-right: 25px; 
+    border: 2 solid black;
+    max-width: inherit;
+   
+}
+.title{
+   
+   max-width: inherit;
+   padding-right: 50px;
+   padding-left: 10px;
+}
+
+.name{
+    
+    font-size: 35px;
+    font-weight: bold;
+    font: Georgia;
+    color: teal;
+    
+}
+
+h2{
+    color: teal;
+    font: Georgia;
+}
+li{
+    color: teal;
+}
+span{
+    color: black;
+}
+.main{
+    margin-left: 25px;
+    margin-bottom: 25px;
+}
+.education{
+    margin-left: 25px;
+    margin-bottom: 25px;
+}
+.experience{
+    margin-left: 25px;
+    margin-bottom: 25px;
+}
+.editional_information{
+    margin-left: 25px;
+    margin-bottom: 25px;
+}
